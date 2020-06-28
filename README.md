@@ -5,15 +5,20 @@ Curso EAD de Data Science, promovido através da Codenation.
 - Dividido em pastas referente a cada semana;
 
 ### Desafio Classificação
-- ENEM 2016;
+- DataSet : *ENEM 2016*;
+
 ### Semana 1 
 - Introdução;
+
 ### Semana 2 
-- Pré processamento dados;
-- Exercício;
+- Python;
+- Pandas;
+- Jupyter notebook;
+- DataSet: *Black Friday - Kaggle* 
 
 ### Semana 3
 - Média;
 - Mediana;
 - Moda;
 - Desvio padrão.
+- DataSet: *Pontuação Crédito - Fictício*
