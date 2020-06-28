@@ -4,8 +4,8 @@ Curso EAD de Data Science, promovido através da Codenation.
 - Scripts Python / Jupyter notebook;
 - Dividido em pastas referente a cada semana;
 
-### Desafio
-- Desafio de classificação - ENEM 2016;
+### Desafio Classificação
+- ENEM 2016;
 ### Semana 1 
 - Introdução;
 ### Semana 2 
